@@ -1,4 +1,4 @@
-# 🗄️ Database Design Models & Relational Architecture 🚀
+# 🗄️ Database Design Models & Relational Architecture
 
 Welcome to the **Database Design Models & Relational Architecture** repository! This project serves as a comprehensive visual and structural guide to core relational database design concepts. It covers everything from conceptual ER Diagram (ERD) modelling and relational schema mappings to structural normalisation and real-world sample dataset representations.
 
